@@ -1,0 +1,1 @@
+This example demonstrates a common error in Swift's async/await: insufficient error handling. The `fetchData` function uses async/await to fetch data from a URL. However, the error handling is minimal.  The solution demonstrates how to improve error handling to provide more robustness.
